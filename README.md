@@ -19,6 +19,10 @@ Because this application relies on the Groq API for the AI responses, every user
 3. **Navigate to API Keys:** On the left-hand sidebar, click on the **"API Keys"** section.
 4. **Create a Key:** Click the **"Create API Key"** button. Give it a name (e.g., "Mahoraga Chat App") and click create.
 5. **Copy the Key:** Copy the generated key. *Note: It should start with `gsk_`.*
+<img width="1349" height="615" alt="image" src="https://github.com/user-attachments/assets/26afaaec-f826-4033-8528-a64e9288c487" />
+<img width="1349" height="614" alt="image" src="https://github.com/user-attachments/assets/27848304-5b81-4b78-aba3-d96d9d15d405" />
+<img width="1346" height="619" alt="image" src="https://github.com/user-attachments/assets/31898f77-dc13-40fd-974b-88904294d170" />
+
 
 ### Using the App:
 
@@ -27,6 +31,9 @@ Because this application relies on the Groq API for the AI responses, every user
 3. Paste your Groq API key into the input field.
 4. Click **"Save Configuration"**.
 5. You're ready to chat! Type a message at the bottom to talk to MAHORAGA AI.
+<img width="1342" height="636" alt="image" src="https://github.com/user-attachments/assets/99285305-eebb-40d1-acca-b662b8b074f4" />
+<img width="1334" height="628" alt="image" src="https://github.com/user-attachments/assets/9fe30404-f485-472a-9540-76c8b29a1ebe" />
+
 
 ## Security & Privacy Note
 If you upload this repository or publish the website, **do not hardcode your API key** into the code files (`script.js` or `index.html`). 
