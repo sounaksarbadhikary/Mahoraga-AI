@@ -32,13 +32,7 @@ Because this application relies on the Groq API for the AI responses, every user
 4. Click **"Save Configuration"**.
 5. You're ready to chat! Type a message at the bottom to talk to MAHORAGA AI.
 <img width="1342" height="636" alt="image" src="https://github.com/user-attachments/assets/99285305-eebb-40d1-acca-b662b8b074f4" />
-<img width="1334" height="628" alt="image" src="https://github.com/user-attachments/assets/9fe30404-f485-472a-9540-76c8b29a1ebe" />
-
-
-## Security & Privacy Note
-If you upload this repository or publish the website, **do not hardcode your API key** into the code files (`script.js` or `index.html`). 
-
-The application is built so that anyone who visits your site will be prompted to enter their *own* API key, meaning you will not be charged for their usage and your personal key stays safe.
+<img width="1334" height="628" alt="image" src="https://github.com/user-attachments/assets/9fe30404-f485-472a-9540-76c8b29a1ebe" >
 
 ---
 *Created as a personal web development and AI integration project.*
